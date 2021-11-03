@@ -1,0 +1,5 @@
+$ mix escript.install hex livebook
+
+$ asdf reshim elixir
+
+$ livebook server
